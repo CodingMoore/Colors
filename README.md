@@ -5,7 +5,7 @@ Initialization Date: 2020-10-20
 
 ## Project Description
 ### _Practice Exercise:_<br>
-This project is an exercise in adding jQuery functionality to a webpage.  We are linking our jQuery file to our HTML file, and using jQuery to emplement event listeners.
+This project is an exercise in using jQuery to show and hide objects on an HTML page, and to use jQuery to add classes and assign css changes.
 ## Authors and Contributors
 Authored by: Randel Moore, Parker Benoit.
 
